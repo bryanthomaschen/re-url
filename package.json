@@ -1,5 +1,5 @@
 {
-    "name": "@btc/re-url",
+    "name": "@bryanthomaschen/re-url",
     "version": "0.1.0",
     "description": "Bucklescript bindings for Javascript URL",
     "homepage": "https://github.com/bryanthomaschen/re-url",
