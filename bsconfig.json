@@ -1,0 +1,19 @@
+{
+    "name": "@btc/re-url",
+    "sources": [
+      {
+        "dir": "src",
+        "subdirs": true
+      }
+    ],
+    "package-specs": {
+      "module": "commonjs",
+      "in-source": true
+    },
+    "reason": {
+      "react-jsx": 2
+    },
+    "suffix": ".bs.js",
+    "bsc-flags": ["-bs-super-errors"],
+    "refmt": 3
+  }
